@@ -1,4 +1,4 @@
-NAME = osixia/openldap
+NAME = vobys/openldap-arm64v8
 VERSION = 1.2.3
 
 .PHONY: build build-nocache test tag-latest push push-latest release git-tag-version

@@ -1,6 +1,7 @@
-# Use osixia/light-baseimage
-# sources: https://github.com/osixia/docker-light-baseimage
-FROM osixia/light-baseimage:1.1.2
+# Use vobys/light-baseimage-arm64v8
+# sources: https://github.com/vobys/docker-light-baseimage
+FROM vobys/light-baseimage-arm64v8
+MAINTAINER Alfredo Foltran <alfoltran@gmail.com>
 
 ARG LDAP_OPENLDAP_GID
 ARG LDAP_OPENLDAP_UID

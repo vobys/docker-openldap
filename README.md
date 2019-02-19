@@ -1,8 +1,7 @@
 # OpenLDAP AArch64 Port Project
 
-![Docker Pulls](https://img.shields.io/docker/pulls/osixia/openldap.svg)
-![Docker Stars](https://img.shields.io/docker/stars/osixia/openldap.svg)
-![](https://images.microbadger.com/badges/image/osixia/openldap.svg)
+[![](https://images.microbadger.com/badges/version/vobys/openldap-arm64v8.svg)](https://microbadger.com/images/vobys/openldap-arm64v8 "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/vobys/openldap-arm64v8.svg)](https://microbadger.com/images/vobys/openldap-arm64v8 "Get your own image badge on microbadger.com")
 
 **A docker image to run OpenLDAP.**
 
